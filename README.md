@@ -104,7 +104,6 @@
        <li>Aplicacion para la compra y ventas de autos.</li>
     </ul>
 </div>
-
 <div class="section">
     <h2>Competencias Personales</h2>
     <ul>
