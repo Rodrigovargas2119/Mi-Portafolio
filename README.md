@@ -96,14 +96,11 @@
     <h2>Proyecto Académico</h2>
     <ul>
         <li>Sistema de Test Vocacional Inteligente: orientado a identificar el perfil profesional de estudiantes de secundaria, integrando herramientas de IA y principios psicopedagógicos.</li>
-    </ul>
-    <ul>
-       <li>Aplicacion web de para un restaurante criollo , con funciones especiales para las perosnas con discacidad.<li>
-    </ul>
-    <ul>
+       <li>Aplicacion web de para un restaurante criollo , con funciones especiales para las perosnas con discacidad.</li>
        <li>Aplicacion para la compra y ventas de autos.</li>
     </ul>
 </div>
+
 <div class="section">
     <h2>Competencias Personales</h2>
     <ul>
